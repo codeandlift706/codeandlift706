@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chan Nguyen
 ===================================================================================================================================
 
-Frontend Developer
+Full-Stack Developer
 ------------------
 
 Though I'm exploring both frontend and backend aspects, I've found that I gravitate toward working with frontend - using React! I hope to continue sharpening my skillset while also learning more about the sea of languages out there to become a better developer.
